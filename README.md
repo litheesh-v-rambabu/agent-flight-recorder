@@ -12,6 +12,8 @@ license: mit
 
 # Agent Flight Recorder — Failure Analysis & Regression Testing for LLM Agents
 
+**Live demo:** https://huggingface.co/spaces/LithiVR/agent-flight-recorder (Gradio demo on Hugging Face Spaces, same project logic; Streamlit version in `app.py`)
+
 > **Demo / sample data notice:** This is a scaled-down public reproduction. All traces in
 > `data/` and in the live app are **synthetic demo data** generated deterministically
 > (`scripts/generate_data.py`, seed 42). No production traces are included.
